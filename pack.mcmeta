@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "description": "修复 Create Deco 中的一些模型问题",
+        "pack_format": 9
+    }
+}
